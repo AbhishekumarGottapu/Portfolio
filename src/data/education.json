@@ -1,0 +1,21 @@
+[
+    {
+      "schoolName": "GMR Institute of Technology",
+      "degree": "Bachelor of Technology",
+      "duration": "2021 - 2025",
+      "cgpa": "8.7"
+    },
+    {
+      "schoolName": "Sri Chaitanya Jr. College",
+      "degree": "Board of Intermediate Education, Andhra Pradesh",
+      "duration": "2019 - 2021",
+      "cgpa": "90.4"
+    },
+    {
+        "schoolName": "Sri Chaitanya Techno School",
+        "degree": "Board of Secondary Education, Andhra Pradesh",
+        "duration": "2018 - 2019",
+        "cgpa": "9.7"
+      }
+  ]
+  

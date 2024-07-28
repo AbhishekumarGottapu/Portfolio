@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Hash TeK Solutions",
+    "organisation": "Visakhapatnam",
+    "startDate": "June, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Worked with AWS Cloud", "Learned the services provided by the AWS"]
+  },
+  {
+    "role": "Edunet Foundation",
+    "organisation": "Online Internship",
+    "startDate": "March, 2024",
+    "endDate": "April, 2024",
+    "experiences": ["Worked on Machine Learning Models", "Designed the website"]
+  }
+]

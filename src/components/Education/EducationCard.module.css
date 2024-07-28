@@ -1,0 +1,32 @@
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  box-shadow: 0 16px 14px 0 var(--color-bg);
+  padding: 18px 24px;
+  max-width: 345px;
+  margin: 20px auto;
+  color: var(--color-text);
+}
+
+.schoolName {
+  font-size: 25px;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.degree, .duration, .cgpa {
+  margin-top: 6px;
+  font-size: 25px;
+  font-weight: 400;
+  color: var(--color-text);
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    margin: 20px;
+  }
+}

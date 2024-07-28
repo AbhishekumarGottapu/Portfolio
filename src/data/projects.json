@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project built using the react .",
+    "skills": ["React","Node"]
+  },
+  {
+    "title": "Sickle Cell Detection",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project built using the HTML/CSS and JS.",
+    "skills": ["HTML", "CSS", "JS"]
+  }
+]
